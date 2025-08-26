@@ -3,6 +3,6 @@ pandas
 scikit-learn
 joblib
 sqlalchemy
-passlib
+passlib[bcrypt]
 openai
 python-dotenv
