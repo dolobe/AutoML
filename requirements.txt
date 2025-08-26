@@ -1,8 +1,8 @@
 streamlit
 pandas
-numpy
 scikit-learn
 joblib
+sqlalchemy
 passlib
 openai
-dotenv
+python-dotenv
